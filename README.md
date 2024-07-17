@@ -21,8 +21,15 @@
 
 1. **Industries and Roles Explored**:
     
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    - Roles that I have researhced include: 
+    - Javascript developer, 
+    - react.js developer, 
+    - mobile application developer, 
+    - frontend developer and 
+    - software development engineer. 
+
+    - The ares that piqued my interest include frontend development, Javascript and React.js  developer. This seemed very interesting to me because these are paths that i want to improve on and find a stable career in. I am attracted to this type of development becuase I feel that it allows the coder to be creative with their projects, and it requires understanding of coding languages such as HTML, CSS, Javascript and React.js
+    
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
