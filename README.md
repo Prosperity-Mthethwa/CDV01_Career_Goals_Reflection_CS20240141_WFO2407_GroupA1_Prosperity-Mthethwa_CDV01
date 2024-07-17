@@ -28,12 +28,13 @@
     - frontend developer and 
     - software development engineer. 
 
-    - The ares that piqued my interest include frontend development, Javascript and React.js  developer. This seemed very interesting to me because these are paths that i want to improve on and find a stable career in. I am attracted to this type of development becuase I feel that it allows the coder to be creative with their projects, and it requires understanding of coding languages such as HTML, CSS, Javascript and React.js
-    
+    - The areas that piqued my interest include frontend development, Javascript and React.js  developer. This seemed very interesting to me because these are paths that i want to improve on and find a stable career in. I am attracted to this type of development becuase I feel that it allows the coder to be creative with their projects, and it requires understanding of coding languages such as HTML, CSS, Javascript and React.js
+
 2. **Alignment with Personal Profile**:
     
-    - Reflect on how these industries/roles align with your skills, interests, and values.
-    - Identify any gaps or areas for further exploration.
+    - These roles align with my skills because of their requirements in understanding HTML, CSS, Javascript and React.js, which are skills I intend to have a master knowledge of by the end of the program. As a young adult exploring the workings of technology, I became interested on how people (coders) made websites, apps and 3D renderings and how all those things were made to be responsive to different types of screens. Which led me to finding out that all of that was possible through coding. Curiosity and the willingness to learn and find out more information about things is the reason why I am attracted to the tech industry because I feel that as a tech enthusiast you learn something new everyday if you are willing to. 
+
+    - The gap that I want to dive deep into exploring is the intergration of artificial intelligence into technology. I want to know more and understand how I can incorporate that into my development journey and ultimately, my career.
 
 ### Part 3: SMART Career Goals
 
