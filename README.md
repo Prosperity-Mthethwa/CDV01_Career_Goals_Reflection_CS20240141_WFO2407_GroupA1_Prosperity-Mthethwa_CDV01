@@ -1,9 +1,9 @@
 ### Personal Information
 
 - **Name: Mpilwenhle Prosperity Mthethwa**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Date: 17 July 2024**
+- **Current Role/Position: Software development student**
+- **Field of Interest: Web development, app development & three.js**
 
 ### Part 1: Self-Assessment Reflection
 
