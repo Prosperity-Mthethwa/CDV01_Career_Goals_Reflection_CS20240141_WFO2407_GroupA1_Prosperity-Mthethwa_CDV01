@@ -40,12 +40,26 @@
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    - Specific:
+        - Goal: Learn a new programming language for example React.js.
+        - Rationale: By acquiring proficiency in a specific language, I wanted to expand my skill set, making me more versatile and valuable.
+    - Measurable:
+        - Goal: Write and deploy three new features using that language by the end of the year.
+        - Rationale: Quantifiable progress ensures accountability and motivates me to actively contribute to the product.
+    - Achievable:
+        - Goal: Complete a certification course in cloud computing within six months.
+        - Rationale: This raalistic goal will help me maintain enthusiasm and allow me to enhance my expertise, benefiting both me and the organization.
+    - Relevant:
+        - Goal: Improve front-end development skills to enhance user experience.
+        - Rationale: Aligned with my role as a developer, this goal directly impacts the organization’s mission by creating better user interfaces.
+    - Time-Bound:
+        - Goal: Launch the mobile app by the end of 2025.
+        - Rationale: A deadline provides focus, allowing evaluation of success and the opportunity to set new goals.
 2. **Long-term Goals** (3-5 years and beyond):
     
-    - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+    - My long term career plans see me being a full stack developer and eventually a software engineer in one of the world's biggest companies, Amazon. I want to have an offical AWS certification so that I have a credible understanding of cloud computing. 
+    
+    - This aligns with my goals becuase I have the iante desire to be a cloud computing genius. I have always seen myself  working for the world's biggest companies and making a difference in the tech industry. 
 
 ### Part 4: Action Plan
 
