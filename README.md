@@ -9,12 +9,13 @@
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    - The current skills I possess include HTML, 3D design and python. These are technical skills that I have been currently improving in and have been successful in understanding. They have provided me with knowledge on how to build things through code and how these languages affect how code responds to them. 
+    - Skills which I feel need improvement include CSS, Javascript and React. Its is important for me to improe on these skills as they ae an integral part in making a wholesome and reactive design. They are important keys in web development because they make the stylings and the responsiveness of the web page. 
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    - What I been very interested in is diving deep into full stack web development, in future that is what I see as something that can help set me apart from other web developers. Another one of my key interests include 3D design, in learning three.js I would be coming one step closer into coding 3D designs that promise to create more visual interpretations of things. I have always been insterested in finding a deeper understanding of how people code visualistic 3D designs. I want to grow my presence in development by making sure that all the skills that I possess will have in impact on the future of visual design. 
+    - The most important values for me in a work environment is team collaboration and understanding, communication, flexibility, adaptability, honesty and time managememt. These values are a clear indication that I would be a trustworthy person to work with. 
 
 ### Part 2: Career Exploration Insights
 
