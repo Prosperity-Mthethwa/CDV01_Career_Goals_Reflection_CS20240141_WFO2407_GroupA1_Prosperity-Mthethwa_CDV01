@@ -65,12 +65,19 @@
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Steps needed for each short term goal: 
+        - Goal 1: start by understanding the fundamentals of HTML, CSS & Javascript, which will inevitably lead to learning React.js effectively.
+        - Goal 2: after learning the fundamentals of React.js, I need to make sure that I have a solid understanding of how to deploy functions and features so that I can be able to effectively deploy the new features. 
+        - Goal 3: I need to develop a roadmap and take classes in AWS cloud computing, attend workshops and make sure that i practice questions so that I have a claer understanding of what I want to do.
+        - Goal 4: Join development challenges, be part of hackerthons and developer marathons and create more frontend projects.
+        - Goal 5: Make sure I have a complete understanding of all the requirements of building a mobile app, specifically HTML, CSS, Javascript, React native, bootstrap and angular.
+
+    - Resources include Extra courses such as coursera, Alison, udemy and other free youtube courses. Other important resources may come in a form of mentorship programmes and attending conferences where there are experts that teach these languages and impart knowledge on how to effectively embark on your coding journey. 
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Building the foundation of software development is one of the most important in making sure that I am successful in my long term goals. This foundation of software development will help me easily integrate into software engineering which will allow me to easily understand cloud computing, I want my skills to cascade into each other, where on skill will help uplift the other so that I learn skills that will be able to set me apart from the rest.
+    
+    - Additional skills that I might need to learn will include React native, SQL, Python & C#, these are skills that will set me apart in terms of technical skills that I possess. Possible qualifications might be venturing into having a traditional degree in computer science and furthermore going into pursuing a masters degree in computer sciences.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
