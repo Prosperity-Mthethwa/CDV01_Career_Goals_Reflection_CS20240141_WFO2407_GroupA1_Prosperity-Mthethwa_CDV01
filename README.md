@@ -55,6 +55,7 @@
     - Time-Bound:
         - Goal: Launch the mobile app by the end of 2025.
         - Rationale: A deadline provides focus, allowing evaluation of success and the opportunity to set new goals.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - My long term career plans see me being a full stack developer and eventually a software engineer in one of the world's biggest companies, Amazon. I want to have an offical AWS certification so that I have a credible understanding of cloud computing. 
@@ -73,6 +74,7 @@
         - Goal 5: Make sure I have a complete understanding of all the requirements of building a mobile app, specifically HTML, CSS, Javascript, React native, bootstrap and angular.
 
     - Resources include Extra courses such as coursera, Alison, udemy and other free youtube courses. Other important resources may come in a form of mentorship programmes and attending conferences where there are experts that teach these languages and impart knowledge on how to effectively embark on your coding journey. 
+
 2. **Preparation for Long-term Goals**:
     
     - Building the foundation of software development is one of the most important in making sure that I am successful in my long term goals. This foundation of software development will help me easily integrate into software engineering which will allow me to easily understand cloud computing, I want my skills to cascade into each other, where on skill will help uplift the other so that I learn skills that will be able to set me apart from the rest.
@@ -83,10 +85,16 @@
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Challenges that I might face as an introvert would be making effective connections in the industry, as a person who is more reserved by nature it might be difficult for me to put myself out there and connect with peers and industry professionals. Other challenges that I might come across is wanting to complete all my desires in a timely manner, which might be a steep incline with having a full time job which might lead to procrastination.
+
+    - What I could do to overcome such challenges would be to face my introversion and find introspective ways I could comfot myself into making connections. Another would be to find alternative ways to make connections, because not all connections happen live and in person, especially in the tech space. Most people with full time jobs manage their lives by making time tables on how to actually distribute their free time and their busy time, which might work for me in keeping consistency and managing my time effectively. I have always heard that procrastination is inevitable, it is important that you do not let it control your life, and strategies that I would use would be internal conflict management strategies. 
+
 2. **Opportunities for Growth**:
     
-    - Highlight any opportunities you can leverage for career growth.
-    - Include networking, mentorship, or educational opportunities.
+    - opportunities for growth that i could leverage include:
+        - Attend important tech workshops, seminars and webinars where I could learn more about the industry I want to be a part of. This will allow me to netwrok with industry professionals where I could learn important innovations that are happening the technology and how I could apply such innovations to my projects and my portfolio.  
+        - Project manager where I could manage software projects, coordinate teams, and ensure timely delivery.
+        - being a tech lead where as a tech lead, I would guide development efforts, mentor junior developers, and drive project success.
+        - Venture into lecturing, where i could be a lecture in a specific institution where I could lecture computer sciences.
+        - Take up specialized Roles where I would explore niches like front-end development, back-end development, mobile app development, or cloud computing. Each specialization offers unique growth prospects.
 
